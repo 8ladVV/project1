@@ -1,0 +1,112 @@
+body{
+	margin: 0px;
+}
+
+.wrapper{
+	max-width: 1080px;
+	text-align: center;
+	margin: 0 auto;
+	padding: 20px 30px;
+}
+
+.header{
+	background-color: #F46262;
+}
+
+.text_name{ 
+	color: #FFFFFD;
+	background-color: #EB504E;			
+}
+
+.text_name h1{
+	margin-top: 0.5%;
+	font-size: 40px;
+}
+
+.text_name p{
+	margin-top: -1%;
+	margin-bottom: -0.5%;
+}
+
+.offers{
+	background-color: #232323;
+	color: #FFFFFD;
+}
+
+.part_offers{
+	margin-right: 5%;
+	display: inline-block;
+	width: 20%;
+}
+
+.offers h2{
+	margin-top: 0%;
+}
+
+.offers h3{
+	margin-top: 0.5%;
+}
+
+.offers p{
+	color: #B75E5A;
+}
+
+.part_offers{
+	margin-top: 1%;
+	margin-bottom: -1%;
+}
+
+.icon_offers {
+	width: 100px;
+}
+
+.experts{
+	background-color: #6CC372;
+}
+
+.part_experts{
+	display: inline-block;
+	border-radius: 10px;
+	background-color: #FFFFFF;
+	padding: 2%;
+	margin-right: 1%;
+}
+
+.experts h2{
+	color: #FFFFFD;
+}
+
+.experts h3{
+	color: #69A66A;
+}
+
+.post{
+	color: #B35F55;
+}
+
+button{
+	padding: 10px 20px;
+	border-radius: 5px;
+	background-color: #6CC372;
+}
+
+.experts p{
+	color: #172C19;
+}
+.footer{
+	background-color: #232323;
+}
+
+.part_footer{
+	display: inline-block;
+	max-width: 20%;
+}
+
+.left_footer{
+	 text-align: left;
+}
+
+.right_footer{
+	
+}
+
